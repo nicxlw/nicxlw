@@ -13,7 +13,6 @@ Atualmente, estou estudando com mais frequência:
 * **Análise de dados**
 * **Python**
 * **MySQL**
-* 
 ---
 ## Contatos
 * **E-mail:** nicolesantos2004@gmail.com
